@@ -22,14 +22,17 @@ _I am more than happy to show off these projects during an interview_
 #### Multiplayer Snake Game | C#, Blazor, MySQL, HTTP
 Recreated the classic Snake Game but with multiplayer. Players can start a Server.exe, launch a blazor app, then connect and play snake with as many players who have the app.
 The client deserializes JSON packets from the server and updates the view. The client also updates a MySQL database on events. These are viewable in real time via a simple HTTP web server. 
+![Image](https://github.com/user-attachments/assets/fcb6187f-7ba5-4cbd-9bd2-c4ac780d0cf8)
 
 #### Spreadsheet Application | C#, Blazor, JSON, Git
 Developed a basic Spreadsheet Application in Blazor capable of storing ints, doubles, strings, and functions. This updates live and has many features like: saving/loading, undo/redo, and floating point error handling
+![Image](https://github.com/user-attachments/assets/30ce88a7-2c30-4cc5-8a9d-7921dabfa116)
 
 #### Threaded Web Proxy | Python, TCP, HTTP
 I made an HTTP proxy capable of handling the traffic of MANY people. This project follows all RFC requirements so it can handle all web traffic, allthough anything other than HTTP 1.0 responses are going to return a 400 Bad Request.
 Used multithreading and caching along with proper data structures to make it super efficient.
 Has many functionalities like live toggleable cache clearing, content filtering, and much more.
+![Image](https://github.com/user-attachments/assets/e274af9b-c325-438f-9b4b-1f01f95a8a68)
 
 ## What else am I doing
  - Working Part-Time for the University of Utah's Center for High Performance Computing as a Technical Assistant
