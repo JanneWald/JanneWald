@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy, I'm Janne Wald
+I'm an ex Psychology/Economics student who developed a deep passion for Computer Science and Software Development. Currently in my Junior year here at the University of Utah.
+
 
 <!--
 **JanneWald/JanneWald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
