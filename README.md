@@ -35,5 +35,6 @@ Has many functionalities like live toggleable cache clearing, content filtering,
  - Working Part-Time for the University of Utah's Center for High Performance Computing as a Technical Assistant
  - Being one of the first people to reach 1 Million Science Per Minute in Factorio
    - _please ask me about this I love talking about it_
+![Image](https://github.com/user-attachments/assets/bec82da9-1492-4b2c-b023-4df59d3b361b)
  - Rock climbing
 
