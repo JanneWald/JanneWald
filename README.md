@@ -5,14 +5,15 @@ Currently in classes to explore my interest in **Software/Full Stack Development
 Speaking of which, **I am actively looking for intern/work experiences** in said categories!
 
 #### Contact Me 📫
-_janne.l.wald@gmail.com_
+ - janne.l.wald@gmail.com
 
-or...
+_or..._
 
-_linkedin.com/in/jannewald_
+ - [LinkedIn.com/in/jannewald]{https://www.linkedin.com/in/jannewald}
 
 #### Education 🏫
- - Bachelor of Science in Computer Science, _University of Utah_, Aug 2021 - Present
+ - Bachelor of Science in Computer Science, _University of Utah_,
+ - Aug 2021 - Present
 
 #### Skills 🔧
  - Languages: Python, C#, C++, Java, Bash, MySQL, German :smile:
@@ -47,14 +48,19 @@ _Me playing the snake game with some AIs_
 #### Spreadsheet Application 📂
 _C#, Blazor, JSON, Git_
 
-Developed a basic Spreadsheet Application in Blazor capable of storing ints, doubles, strings, and functions. This updates live and has many features like: saving/loading, undo/redo, and floating point error handling
+Developed a basic Spreadsheet Application that has all the important data calculation necessities.
+Cool Things:
+ - Live cell values updating
+ - Dependency graphs for all cells
+ - Has 4 types: Ints, Doubles, Strings, and Formulas
 ![Image](https://github.com/user-attachments/assets/fcb6187f-7ba5-4cbd-9bd2-c4ac780d0cf8)
+
 _Showcasing all data types in the spreadsheet along with all UI elements_
 
 #### Threaded Web Proxy
 _Python, TCP, HTTP_
 
-I a simple HTTP proxy capable of handling the traffic of MANY people. This project follows all RFC requirements so it can handle all web traffic, allthough anything other than HTTP 1.0 responses are going to return a 400 Bad Request.
+A simple HTTP proxy capable of handling the traffic of MANY people. This project follows all RFC requirements so it can handle all web traffic, allthough anything other than HTTP 1.0 responses are going to return a 400 Bad Request.
 Cool Things:
  - MultiThreaded
  - No downtime proxy configuration
@@ -67,8 +73,9 @@ _Toggleable Debug Output Of Proxy_
  - Working Part-Time for the University of Utah's Center for High Performance Computing as a Technical Assistant
    - Check us out at [chpc.utah.edu](https://www.chpc.utah.edu) 
  - Being one of the first people to reach 1 Million Science Per Minute in Factorio
-   Please ask me about this; I love talking about it_
+   Please ask me about this; I love talking about it!_
+   
 ![Image](https://github.com/user-attachments/assets/bec82da9-1492-4b2c-b023-4df59d3b361b)
-_My on my 530k Prometheum Science Ship Factory_
+_My on my 530k Prometheum Science Ship
  - Progressing my Rock climbing skills
  - Learning about YouTube and personal business
