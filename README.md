@@ -25,6 +25,7 @@ _or..._
 Similar to that one Michael Reeves video. This program uses OpenAI’s Whisper module to live translate microphone input into text.
 
 Planning to implement:
+ - Refactor to faster_whisper model for performance
  - Web server on Raspberry Pi to parse transmissions
  - Have program transmit words via JSON to web server
  - Create HTML and CSS pages to show words being spoken along with programmable blocklist
