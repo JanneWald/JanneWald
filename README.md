@@ -9,7 +9,7 @@ Speaking of which, **I am actively looking for intern/work experiences** in said
 
 _or..._
 
- - [LinkedIn.com/in/jannewald]{https://www.linkedin.com/in/jannewald}
+ - [LinkedIn.com/in/jannewald](https://www.linkedin.com/in/jannewald)
 
 #### Education 🏫
  - Bachelor of Science in Computer Science, _University of Utah_,
@@ -66,16 +66,17 @@ Cool Things:
  - No downtime proxy configuration
  - Cacheing (Toggleable)
  - Content Filtering (Toggleable)
+
 ![Image](https://github.com/user-attachments/assets/e274af9b-c325-438f-9b4b-1f01f95a8a68)
+
 _Toggleable Debug Output Of Proxy_
 
-## What else am I doing
+## What else am I doing ❓
  - Working Part-Time for the University of Utah's Center for High Performance Computing as a Technical Assistant
    - Check us out at [chpc.utah.edu](https://www.chpc.utah.edu) 
  - Being one of the first people to reach 1 Million Science Per Minute in Factorio
-   Please ask me about this; I love talking about it!_
    
 ![Image](https://github.com/user-attachments/assets/bec82da9-1492-4b2c-b023-4df59d3b361b)
-_My on my 530k Prometheum Science Ship
- - Progressing my Rock climbing skills
- - Learning about YouTube and personal business
+_On my 530k Prometheum Science Ship_
+ - Progressing my rock climbing skills
+ - Learning about YouTube and Personal Business
