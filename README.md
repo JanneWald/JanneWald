@@ -12,7 +12,7 @@ _or..._
  - [LinkedIn.com/in/jannewald](https://www.linkedin.com/in/jannewald)
 
 #### Education 🏫
- - Bachelor of Science in Computer Science, _University of Utah_,
+ - Bachelor of Science in Computer Science, _University of Utah_
  - Aug 2021 - Present
 
 #### Skills 🔧
@@ -40,7 +40,8 @@ Recreated the classic Snake Game but with multiplayer! Players can start a Serve
 Cool Things:
  - JSON deserialization from server
  - Alt web server and MySQL database to track games live
- - Object collisiong
+ - Object collision handling
+ - Application states and signals
 
 ![Image](https://github.com/user-attachments/assets/30ce88a7-2c30-4cc5-8a9d-7921dabfa116)
 _Me playing the snake game with some AIs_
