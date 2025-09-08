@@ -16,7 +16,8 @@ _or..._
  - Aug 2021 - Present
 
 #### Skills 🔧
- - Languages: Python, C#, C++, Java, Bash, MySQL, German :smile:
+ - Languages: Python, C++, C#, Javascript/Typescript Java, Bash, MySQL, German
+ - Frameworks: Angular, Node, React, Express, IPMI, Redfish
  - Tools: Git, Docker, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Qt
 
 ## Projects 💻
@@ -31,8 +32,6 @@ Planning to implement:
  - Create HTML and CSS pages to show words being spoken along with programmable blocklist
  - Close circuit on taser with Raspberry Pi to activate taser on banned word
 
-### NOTE: University of Utah policy prevents me from publicizing the repos for the below projects
-_I have given screenshots and am more than happy to show off these privately_
 
 #### Multiplayer Snake Game 🐍 
 _C#, Blazor, MySQL, HTTP_
