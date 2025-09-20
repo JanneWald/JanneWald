@@ -4,36 +4,36 @@ Currently in classes to explore my interest in **Software/Full Stack Development
 
 Speaking of which, **I am actively looking for intern/work experiences** in said categories!
 
-#### Contact Me 📫
+#### Contact Me
  - janne.l.wald@gmail.com
 
 _or..._
 
  - [LinkedIn.com/in/jannewald](https://www.linkedin.com/in/jannewald)
 
-#### Education 🏫
+#### Education
  - Bachelor of Science in Computer Science, _University of Utah_
  - Aug 2021 - Present
 
-#### Skills 🔧
+#### Skills
  - Languages: Python, C++, C#, Javascript/Typescript Java, Bash, MySQL, German
  - Frameworks: Angular, Node, React, Express, IPMI, Redfish
  - Tools: Git, Docker, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Qt
 
-## Projects 💻
+## Projects
 
-#### Speech-To-Tazer🎤(WIP)
-Similar to that one Michael Reeves video. This program uses OpenAI’s Whisper module to live translate microphone input into text.
+#### Speech Controlled Internet of Things
+Similar to that one Michael Reeves video (if ykyk). This program uses OpenAI’s Whisper module to live translate microphone input into text.
 
 Planning to implement:
  - Refactor to faster_whisper model for performance
  - Web server on Raspberry Pi to parse transmissions
- - Have program transmit words via JSON to web server
+ - Have the program transmit words via JSON to web server
  - Create HTML and CSS pages to show words being spoken along with programmable blocklist
  - Close circuit on taser with Raspberry Pi to activate taser on banned word
 
 
-#### Multiplayer Snake Game 🐍 
+#### Multiplayer Snake Game 
 _C#, Blazor, MySQL, HTTP_
 
 Recreated the classic Snake Game but with multiplayer! Players can start a Server.exe, launch a blazor app, then connect and play snake with as many players who have the app.
@@ -46,7 +46,7 @@ Cool Things:
 ![Image](https://github.com/user-attachments/assets/30ce88a7-2c30-4cc5-8a9d-7921dabfa116)
 _Me playing the snake game with some AIs_
 
-#### Spreadsheet Application 📂
+#### Spreadsheet Application 
 _C#, Blazor, JSON, Git_
 
 Developed a basic Spreadsheet Application that has all the important data calculation necessities.
