@@ -75,7 +75,7 @@ _Toggleable Debug Output Of Proxy_
 ## What else am I doing ❓
  - Working Part-Time for the University of Utah's Center for High Performance Computing as a Technical Assistant
    - Check us out at [chpc.utah.edu](https://www.chpc.utah.edu) 
- - Being one of the first people to reach 1 Million Science Per Minute in Factorio
+ - I was one of first people to reach 1 Million Science Per Minute in Factorio Space Age
    
 ![Image](https://github.com/user-attachments/assets/bec82da9-1492-4b2c-b023-4df59d3b361b)
 _On my 530k Prometheum Science Ship_
